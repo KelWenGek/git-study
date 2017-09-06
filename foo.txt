@@ -1,7 +1,4 @@
 hello kel
-<<<<<<< b40ca46775cccbef98e633b72589625eb3b9679f
 changes after stash
 changes before stash
-=======
 rebase happen here
->>>>>>> Make rebase
