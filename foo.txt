@@ -3,4 +3,9 @@ changes after stash
 changes before stash
 rebase happen here
 
+<<<<<<< 26fe1ce436db99f1413f962ebb9c15a781641ee6
 just change something
+=======
+
+just make some change for rebase pull
+>>>>>>> just make some change for rebase pull
