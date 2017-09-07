@@ -11,3 +11,4 @@ first change in the branch feature-a
 second change in the branch feature-a
 
 change for testing --no-ff
+make some changes in the branch feature-a for testing --no-ff
