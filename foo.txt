@@ -16,3 +16,4 @@ make some changes in the branch feature-a for testing --no-ff
 some change in the branch master for another rebase
 
 some change in the branch release1
+some changes in the branch feature-a for rebase --onto
