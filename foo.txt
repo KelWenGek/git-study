@@ -12,3 +12,5 @@ second change in the branch feature-a
 
 change for testing --no-ff
 make some changes in the branch feature-a for testing --no-ff
+
+some change in the branch master for another rebase
